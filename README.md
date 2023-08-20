@@ -1,5 +1,3 @@
-# SabjiWallah
-SABJIWALLAH-GROCERY WEBAPP: Reactjs, Firebase, Framer Motion, Tailwind CSS
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
